@@ -1,4 +1,4 @@
 # project1-demo
 This is my first GIT Repository.
 <br>
-Author-Aysha Bisht
+Author-Aysha (army institue of technology)
